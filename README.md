@@ -19,6 +19,7 @@ The Caesar Cipher shifts each letter in the input text by a specified number of 
 Example with shift = 3:
 
 Plain Text:  hello
+
 Cipher Text: khoor
 
 💡 Future Improvements
